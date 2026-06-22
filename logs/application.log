@@ -1,0 +1,222 @@
+2026-06-23 00:43:21.859 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 00:43:21.862 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:43:21.863 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:43:21.863 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 00:43:24.501 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (d3c0cd909da838f39c18cbea3912c72b)
+2026-06-23 00:43:24.562 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 00:43:24.824 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 00:43:24.825 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:43:24.826 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:43:28.820 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 00:43:28.835 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 00:43:31.129 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 00:43:37.385 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:43:37.428 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - TearDown: scenario status is FAILED
+2026-06-23 00:43:37.429 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 00:43:37.726 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 00:56:09.840 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 00:56:09.842 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:56:09.842 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:56:09.842 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 00:56:10.759 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (5d9473458f718efd56e75a83816e899b)
+2026-06-23 00:56:10.782 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 00:56:10.825 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 00:56:10.825 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:56:10.825 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:56:14.221 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 00:56:14.226 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 00:56:16.332 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 00:56:21.669 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:56:21.671 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 00:56:22.234 [TestNG-PoolService-1] WARN  stepDefinations.PriceFilterSteps - Stale or click-intercepted exception on brand Babyhug (attempt 1). Retrying...
+2026-06-23 00:56:23.909 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 00:56:26.910 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 00:56:27.554 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 00:56:30.557 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 00:56:31.187 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 00:56:34.197 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - TearDown: scenario status is FAILED
+2026-06-23 00:56:34.198 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 00:56:34.334 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 00:57:41.541 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 00:57:41.543 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:57:41.543 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:57:41.544 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 00:57:42.457 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (9954998f51aee8c9659cae543ad61de6)
+2026-06-23 00:57:42.495 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 00:57:42.536 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 00:57:42.536 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 00:57:42.536 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 00:57:46.316 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 00:57:46.319 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 00:57:48.413 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 00:57:53.752 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:57:53.753 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 00:57:54.304 [TestNG-PoolService-1] WARN  stepDefinations.PriceFilterSteps - Stale Babyhug (i 1). Retrying...
+2026-06-23 00:57:56.309 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 00:57:59.321 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 00:57:59.985 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 00:58:02.986 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 00:58:03.612 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 00:58:06.615 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 00:58:07.274 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 00:58:14.298 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [0 to 250]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:58:14.303 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621~1000645@~p0@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=893.5999755859375&pview=&tc=3412
+2026-06-23 00:58:22.307 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 00:58:22.957 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 00:58:29.991 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [250 to 500]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:58:29.997 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=932&pview=&tc=1257
+2026-06-23 00:58:38.012 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 00:58:38.702 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 00:58:45.723 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [500 to 1000]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 00:58:45.727 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1~p2@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=840.7999877929688&pview=&tc=2263
+2026-06-23 00:58:50.737 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 00:58:50.737 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 00:58:50.948 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 00:58:50.948 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 00:58:51.097 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 01:05:06.442 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 01:05:06.444 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:05:06.444 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:05:06.444 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 01:05:07.393 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (27d3080cee6ddbebbbf404c401e77482)
+2026-06-23 01:05:07.426 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 01:05:07.466 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 01:05:07.466 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:05:07.466 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:05:12.306 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 01:05:12.314 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 01:05:14.416 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 01:05:19.817 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:05:19.818 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 01:05:20.485 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 01:05:23.498 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 01:05:24.193 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 01:05:27.202 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 01:05:27.839 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 01:05:30.843 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 01:05:31.472 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 01:05:38.495 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [0 to 250]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:05:38.503 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621~1000645@~p0@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=893.5999755859375&pview=&tc=3412
+2026-06-23 01:05:46.533 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 01:05:47.164 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 01:05:54.196 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [250 to 500]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:05:54.199 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=816.7999877929688&pview=&tc=1257
+2026-06-23 01:06:02.218 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 01:06:02.841 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 01:06:09.864 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [500 to 1000]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:06:09.868 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1~p2@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=840.7999877929688&pview=&tc=2263
+2026-06-23 01:06:14.877 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 01:06:14.877 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 01:06:15.057 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 01:06:15.057 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 01:06:15.220 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 01:10:10.044 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 01:10:10.046 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:10:10.046 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:10:10.046 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 01:10:11.086 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (b2639063b803f4636e04c4bb43a6dc38)
+2026-06-23 01:10:11.121 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 01:10:11.161 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 01:10:11.162 [TestNG-PoolService-1] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:10:11.162 [TestNG-PoolService-1] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:10:14.598 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 01:10:14.601 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 01:10:16.691 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 01:10:22.005 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:10:22.006 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 01:10:22.558 [TestNG-PoolService-1] WARN  stepDefinations.PriceFilterSteps - Stale Babyhug (i 1). Retrying...
+2026-06-23 01:10:24.435 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 01:10:27.442 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 01:10:28.156 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 01:10:31.163 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 01:10:31.788 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 01:10:34.805 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 01:10:35.463 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 01:10:42.486 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [0 to 250]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:10:42.499 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621~1000645@~p0@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=779.2000122070312&pview=&tc=3412
+2026-06-23 01:10:50.511 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 01:10:51.150 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 01:10:58.180 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [250 to 500]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:10:58.185 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=816.7999877929688&pview=&tc=1257
+2026-06-23 01:11:06.205 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 01:11:06.832 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 01:11:13.862 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - Results for [500 to 1000]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:11:13.865 [TestNG-PoolService-1] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1~p2@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=840.7999877929688&pview=&tc=2263
+2026-06-23 01:11:18.871 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 01:11:18.871 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 01:11:19.064 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 01:11:19.064 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 01:11:19.214 [TestNG-PoolService-1] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 01:12:53.693 [main] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 01:12:53.695 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:12:53.695 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:12:53.695 [main] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 01:12:54.657 [main] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (91237cb156154cda6caf7fbabdfaf53f)
+2026-06-23 01:12:54.694 [main] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 01:12:54.738 [main] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 01:12:54.738 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:12:54.738 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:12:58.386 [main] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 01:12:58.390 [main] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 01:13:00.493 [main] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 01:13:06.082 [main] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:13:06.084 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 01:13:06.631 [main] WARN  stepDefinations.PriceFilterSteps - Stale Babyhug (i 1). Retrying...
+2026-06-23 01:13:08.394 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 01:13:11.409 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 01:13:12.035 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 01:13:15.048 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 01:13:15.680 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 01:13:18.685 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 01:13:19.323 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 01:13:26.342 [main] INFO  stepDefinations.PriceFilterSteps - Results for [0 to 250]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:13:26.346 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621~1000645@~p0@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=779.2000122070312&pview=&tc=3412
+2026-06-23 01:13:34.358 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 01:13:35.024 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 01:13:42.041 [main] INFO  stepDefinations.PriceFilterSteps - Results for [250 to 500]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:13:42.044 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=816.7999877929688&pview=&tc=1257
+2026-06-23 01:13:50.048 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 01:13:50.705 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 01:13:57.740 [main] INFO  stepDefinations.PriceFilterSteps - Results for [500 to 1000]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:13:57.744 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1~p2@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=955.2000122070312&pview=&tc=2263
+2026-06-23 01:14:02.749 [main] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 01:14:02.750 [main] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 01:14:02.959 [main] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 01:14:02.959 [main] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 01:14:03.107 [main] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 01:15:23.059 [main] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 01:15:23.060 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:15:23.060 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:15:23.060 [main] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 01:15:24.019 [main] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (785e55245a67df27165f9d82807b45a0)
+2026-06-23 01:15:24.055 [main] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 01:15:24.095 [main] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 01:15:24.095 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 01:15:24.096 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 01:15:27.990 [main] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 01:15:27.999 [main] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 01:15:30.088 [main] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 01:15:35.496 [main] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:15:35.497 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 01:15:36.161 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 01:15:39.168 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 01:15:39.810 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 01:15:42.816 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 01:15:43.484 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 01:15:46.493 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 01:15:47.117 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 01:15:54.140 [main] INFO  stepDefinations.PriceFilterSteps - Results for [0 to 250]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:15:54.147 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621~1000645@~p0@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=893.5999755859375&pview=&tc=3412
+2026-06-23 01:16:02.164 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 01:16:02.796 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 01:16:09.809 [main] INFO  stepDefinations.PriceFilterSteps - Results for [250 to 500]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:16:09.812 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=1066.4000244140625&pview=&tc=1257
+2026-06-23 01:16:17.828 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 01:16:18.471 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 01:16:25.492 [main] INFO  stepDefinations.PriceFilterSteps - Results for [500 to 1000]: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 01:16:25.496 [main] INFO  stepDefinations.PriceFilterSteps - URL: https://www.firstcry.com/t-shirts/6/26?scat=26@@@@@@@@@@1@0@20@@@@@@@@@@@@@@@&gender=boy,unisex&sort=bestseller&q=ard-boys%20t%20shirt&ref2=q_ard_boys%20t%20shirt&asid=34567#scat=26@@@@@@@@~1004078~621@~p0~p1~p2@1@0@20@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&cat=6&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&author=&book=&character=&collection=&format=&genre=&booklanguage=&publication=&skill=&PageNo=1&scrollPos=840.7999877929688&pview=&tc=2263
+2026-06-23 01:16:30.504 [main] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 01:16:30.504 [main] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 01:16:30.716 [main] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 01:16:30.716 [main] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 01:16:30.863 [main] INFO  hooks.ScenarioHook - WebDriver quit successfully.

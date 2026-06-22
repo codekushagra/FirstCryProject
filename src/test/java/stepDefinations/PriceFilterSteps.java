@@ -55,7 +55,7 @@ public class PriceFilterSteps extends Base {
         String[] brands = {"Babyhug", "Babyoye", "US Polo Assn"};
         for (String name : brands) {
             log.info("Attempting to apply brand filter: " + name);
-            for (int attempt = 0; attempt < 3; attempt++) {
+            for (int i = 0; i < 3; i++) {
                 try {
                     WebElement el = getDriver().findElement(
                         By.xpath("//a[@role='checkbox' and contains(@aria-label,'" + name + "')]")
@@ -65,7 +65,7 @@ public class PriceFilterSteps extends Base {
                     Thread.sleep(3000);
                     break;
                 } catch (StaleElementReferenceException | ElementClickInterceptedException e) {
-                    log.warn("Stale or click-intercepted exception on brand " + name + " (attempt " + (attempt + 1) + "). Retrying...");
+                    log.warn("Stale " + name + " (i " + (i + 1) + "). Retrying...");
                     Thread.sleep(1000);
                 }
             }
@@ -76,7 +76,7 @@ public class PriceFilterSteps extends Base {
     public void user_selects_price_range(String range) throws Exception {
         String xpath = "//a[contains(@aria-label,'" + range + "')]";
         log.info("Attempting to select price range: " + range);
-        for (int attempt = 0; attempt < 3; attempt++) {
+        for (int i = 0; i < 3; i++) {
             try {
                 WebElement el = getDriver().findElement(By.xpath(xpath));
                 scrollToCenterAndClick(el);
@@ -84,7 +84,7 @@ public class PriceFilterSteps extends Base {
                 Thread.sleep(2000);
                 break;
             } catch (StaleElementReferenceException | ElementClickInterceptedException e) {
-                log.warn("Stale or click-intercepted exception on price range " + range + " (attempt " + (attempt + 1) + "). Retrying...");
+                log.warn("Stale or click-intercepted exception on price range " + range + " (attempt " + (i + 1) + "). Retrying...");
                 Thread.sleep(1000);
             }
         }
