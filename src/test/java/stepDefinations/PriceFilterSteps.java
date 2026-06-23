@@ -13,6 +13,7 @@ import io.cucumber.java.en.When;
 import pageObjects.C_PriceFilterPage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.Assert;
 
 public class PriceFilterSteps extends Base {
     private static final Logger log = LogManager.getLogger(PriceFilterSteps.class);
@@ -99,8 +100,13 @@ public class PriceFilterSteps extends Base {
     @Then("Price filter results are displayed for {string}")
     public void price_filter_results_are_displayed(String range) throws Exception {
         Thread.sleep(5000);
-        log.info("Results for [" + range + "]: " + getDriver().getTitle());
-        log.info("URL: " + getDriver().getCurrentUrl());
+        String[] limits = range.split(" to ");
+        int min = Integer.parseInt(limits[0].trim()), max = Integer.parseInt(limits[1].trim());
+
+        for (WebElement el : getDriver().findElements(By.className("li_prc"))) {
+            int price = Integer.parseInt(el.getText().replaceAll("^\\D+", "").split("\\D+")[0]);
+            Assert.assertTrue(price >= min && price <= max, "Price " + price + " out of range: " + range);
+        }
         Thread.sleep(5000);
     }
 }

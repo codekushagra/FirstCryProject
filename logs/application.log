@@ -220,3 +220,34 @@
 2026-06-23 01:16:30.716 [main] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
 2026-06-23 01:16:30.716 [main] INFO  hooks.ScenarioHook - Quitting WebDriver...
 2026-06-23 01:16:30.863 [main] INFO  hooks.ScenarioHook - WebDriver quit successfully.
+2026-06-23 22:06:24.170 [main] INFO  hooks.ScenarioHook - Starting scenario: Validating price by filter
+2026-06-23 22:06:24.172 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 22:06:24.172 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 22:06:24.173 [main] INFO  hooks.ScenarioHook - Configuring browser: chrome
+2026-06-23 22:06:25.792 [main] INFO  hooks.ScenarioHook - Chrome driver initialized: ChromeDriver: chrome on windows (5b5047f1b38b770af2739deb29041309)
+2026-06-23 22:06:25.826 [main] INFO  hooks.ScenarioHook - Browser window maximized.
+2026-06-23 22:06:25.895 [main] INFO  stepDefinations.PriceFilterSteps - Navigating to home page for price filter...
+2026-06-23 22:06:25.895 [main] INFO  base.Base - Loading data.properties file...
+2026-06-23 22:06:25.895 [main] INFO  base.Base - Properties file loaded successfully.
+2026-06-23 22:06:29.889 [main] INFO  stepDefinations.PriceFilterSteps - Home Page: Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com
+2026-06-23 22:06:29.897 [main] INFO  stepDefinations.PriceFilterSteps - Searching for product: Boys t shirt
+2026-06-23 22:06:32.024 [main] INFO  stepDefinations.PriceFilterSteps - Clicking the search button.
+2026-06-23 22:06:38.269 [main] INFO  stepDefinations.PriceFilterSteps - Search Results Page: T-shirts for Boys Online - Buy at FirstCry.com
+2026-06-23 22:06:38.271 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyhug
+2026-06-23 22:06:38.829 [main] WARN  stepDefinations.PriceFilterSteps - Stale Babyhug (i 1). Retrying...
+2026-06-23 22:06:40.539 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyhug
+2026-06-23 22:06:43.546 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: Babyoye
+2026-06-23 22:06:44.210 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: Babyoye
+2026-06-23 22:06:47.215 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to apply brand filter: US Polo Assn
+2026-06-23 22:06:47.879 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked brand: US Polo Assn
+2026-06-23 22:06:50.882 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 0 to 250
+2026-06-23 22:06:51.547 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 0 to 250
+2026-06-23 22:07:16.627 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 250 to 500
+2026-06-23 22:07:17.289 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 250 to 500
+2026-06-23 22:07:42.384 [main] INFO  stepDefinations.PriceFilterSteps - Attempting to select price range: 500 to 1000
+2026-06-23 22:07:43.041 [main] INFO  stepDefinations.PriceFilterSteps - Successfully clicked price range: 500 to 1000
+2026-06-23 22:08:05.142 [main] INFO  hooks.ScenarioHook - TearDown: scenario status is PASSED
+2026-06-23 22:08:05.143 [main] INFO  hooks.ScenarioHook - Scenario passed, taking screenshot...
+2026-06-23 22:08:05.342 [main] INFO  hooks.ScenarioHook - Screenshot attached to Allure.
+2026-06-23 22:08:05.342 [main] INFO  hooks.ScenarioHook - Quitting WebDriver...
+2026-06-23 22:08:05.511 [main] INFO  hooks.ScenarioHook - WebDriver quit successfully.
