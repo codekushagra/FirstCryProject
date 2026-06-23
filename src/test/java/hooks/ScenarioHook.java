@@ -46,9 +46,9 @@ public class ScenarioHook extends Base {
 				EdgeOptions options = new EdgeOptions();
 				options.setCapability("platformName","Windows");
 				log.info("Edge driver initialized.");
-//				remoteDriver = new RemoteWebDriver( new URL("http://localhost:4444"),options);
+				remoteDriver = new RemoteWebDriver( new URL("http://localhost:4444"),options);
 			}
-//			setDriver(remoteDriver);
+			setDriver(remoteDriver);
 			getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			getDriver().manage().window().maximize();
 			log.info("Browser window maximized.");
